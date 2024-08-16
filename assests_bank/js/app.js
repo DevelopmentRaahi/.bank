@@ -1,8 +1,8 @@
 document.querySelector('.copyright .year').textContent = (new Date()).getFullYear();
 
 var typed = new Typed('.slidingVertical', {
-  strings: [ 'com','com' ],
-      typeSpeed: 160,
+  strings: [ 'Bank','Bank' ],
+      typeSpeed: 170,
   smartBackspace: true,
        loop: true
     });
